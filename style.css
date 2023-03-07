@@ -1,0 +1,16 @@
+.sidebar{
+    height: cal(100vh-10px);
+}
+.accordion-header:focus{
+    border: none !important;
+    outline: 0 !important;
+}
+nav-link:focus{
+    outline: 0 !important;
+    border: none !important;
+}
+.nav-item:hover{
+    cursor: pointer;
+    background-color: rgb(130, 130, 130);
+    border-radius: 10px;
+}
